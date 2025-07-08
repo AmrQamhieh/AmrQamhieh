@@ -34,7 +34,8 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AmrQamhieh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile-link/)  
-[![GitHub](https://img.shields.io/badge/GitHub-AmrQamhieh-black?style=flat-square&logo=github)](https://github.com/AmrQamhieh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AmrQamhieh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amrqamhieh/)  
+[![X](https://img.shields.io/badge/X-@QamAmrrr-black?style=flat-square&logo=twitter)](https://x.com/QamAmrrr)
+
 
 ---
