@@ -1,26 +1,20 @@
-<h1 align="center">Hi, I'm Amr Qamhieh 👋</h1>
-
-<p align="center">
-  <strong>Frontend Developer</strong> | UI/UX Enthusiast |  MIS Graduate
-</p>
+# 👋 Hi, I’m Amr Qamhieh  
+🚀 Frontend Developer | Passionate about building clean, responsive, and accessible user interfaces  
 
 ---
 
-### 💻 About Me
-
-- 💻 Frontend Developer with a passion for building clean, responsive, and accessible user interfaces
-- 🎯 Skilled in **JavaScript**, **HTML**, **CSS**, and **SCSS (SASS)**
-- 🧠 Continuously learning modern tools, performance best practices, and UI/UX principles
-- 🎓 Background in **Management Information Systems (MIS)**
-- 🚀 Love transforming ideas into smooth, functional web experiences
+## 🧑‍💻 About Me  
+- 🌐 Skilled in **JavaScript (ES6+)**, **HTML5**, **CSS3**, and **SCSS (SASS)**  
+- ⚡ Continuously learning **modern tools**, **performance best practices**, and **UI/UX principles**  
+- 🎓 Background in **Management Information Systems (MIS)**  
+- 💡 Love transforming ideas into smooth, functional web experiences  
 
 ---
 
-### 🛠️ Tech Stack
-
-- **Languages**: HTML, CSS, JavaScript, SASS
-- **Tools**: Git, GitHub, Figma, VS Code
-- **Soft Skills**: Teamwork, Critical Thinking, Communication
+## 🛠 Tech Stack  
+- **Languages:** HTML5, CSS3/SCSS, JavaScript (ES6+), TypeScript  
+- **Frameworks & Tools:** React (Hooks, Router, Context API), Git/GitHub, Figma, VS Code, Vite, ESLint, Prettier  
+- **Soft Skills:** Teamwork, Critical Thinking, Time Management, Communication  
 
 ---
 
