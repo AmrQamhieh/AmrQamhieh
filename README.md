@@ -11,7 +11,6 @@ Frontend Developer passionate about building clean, responsive, and accessible w
 - 🔧 Experienced with React (Hooks, Router, Context API)  
 - 🎨 I care deeply about UI/UX, responsive design, performance, and accessibility  
 - 📚 Always learning — currently exploring (for example):  
-  - Next.js / Server-Side Rendering  
   - Web Accessibility best practices  
   - Advanced TypeScript or full-stack Node.js  
 
