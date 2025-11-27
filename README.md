@@ -5,8 +5,7 @@
 <h1 align="center">Hi, I'm Amr Qamhieh</h1>
 
 <p align="center">
-   Palestine -
-  <a href="https://linkedin.com/in/amrqamhieh" target="_blank">LinkedIn</a>
+   ~ From Palestine ~
 </p>
 
 ---
