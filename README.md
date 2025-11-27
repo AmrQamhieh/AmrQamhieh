@@ -1,63 +1,105 @@
-# 👋 Hi, I’m **Amr Qamhieh**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00D1FF&center=true&vCenter=true&width=500&lines=Amr+Qamhieh;DevOps+Engineer" alt="Typing Animation" />
+</p>
 
-Frontend Developer passionate about building clean, responsive, and accessible web user interfaces.
+<h1 align="center">Hi, I'm Amr Qamhieh</h1>
 
----
-
-## 🧑‍💻 About Me
-
-- 💻 Based in Palestine, with a background in Management Information Systems (MIS)  
-- 🚀 Strong skills in HTML5, CSS3 / SCSS, JavaScript (ES6+), TypeScript  
-- 🔧 Experienced with React (Hooks, Router, Context API)  
-- 🎨 I care deeply about UI/UX, responsive design, performance, and accessibility  
-- 📚 Always learning — currently exploring (for example):  
-  - Web Accessibility best practices  
-  - Advanced TypeScript or full-stack Node.js  
+<p align="center">
+  Nablus, Palestine • 
+  <a href="https://linkedin.com/in/amrqamhieh" target="_blank">LinkedIn</a>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 About Me
 
-| Frontend | Tools & Utilities | Other Skills |
-|---|---|---|
-| ![HTML5][html icon] HTML5 • ![CSS3][css icon] CSS3 / SCSS • ![JavaScript][js icon] JavaScript (ES6+) • TypeScript | React (Hooks, Router, Context API) • Git / GitHub • VS Code • Figma • ESLint • Prettier • Vite | Responsive Design • Performance Optimization • Accessibility • Teamwork • Problem Solving |
+I'm a **DevOps Intern** focused on Linux systems, automation, containerization, and building tools that make infrastructure more reliable and easier to manage.
 
----
+I work mainly with:
 
-## ⭐ Featured Projects
+- **RHEL 9 Linux**
+- **Bash scripting**
+- **Python automation**
+- **Docker & Podman containers**
 
-| Project | Description | Tech Used |
-|---|---|---|
-| **[Udacity-Freelance-Site](https://github.com/AmrQamhieh/Udacity-Freelance-Site)** | A freelance marketplace UI implemented during Udacity course. Focused on responsive layout, clean CSS, and user experience. | HTML5 · CSS3 · JS |
-| **[Portfolio-Udacity-SASS](https://github.com/AmrQamhieh/Portfolio-Udacity-SASS)** | My personal portfolio site with SASS, crafted to showcase projects and UI design. | SASS · HTML · CSS · Responsive Design |
-| **[Sentilytics](https://github.com/AmrQamhieh/Sentilytics)** | Sentiment analysis dashboard (forked & improved). Added features / UI enhancements. | TypeScript · React |
+Currently learning:
 
----
+- **Ansible** (playbooks, roles, inventory)
+- Better infrastructure automation practices
+- Monitoring, logging, and CI/CD fundamentals
 
-## 🔭 Currently Working On
-
-- Improving web performance & accessibility in my projects  
-- Learning Next.js to build full-stack / server-rendered pages  
-- Building side-projects to apply new skills (if any side project idea)  
+I’m always trying to understand how things work behind the scenes — from processes and services to containers and network flows.
 
 ---
 
-## 🤝 Let’s Connect
+# 🔧 Skills & Tools
 
-[![LinkedIn][linkedin badge]][linkedin] • [![X / Twitter][twitter badge]][twitter] • ✉️ [Email me](mailto:your.email@example.com)
+### **Core DevOps Skills**
+- Linux Administration (RHEL 9)
+- Bash scripting  
+- Python scripting  
+- Containers (Docker & Podman)  
+- Service & network troubleshooting  
+- SELinux, systemd, firewalld, nmcli  
+
+### **Tools I Use**
+- Git & GitHub  
+- journalctl, systemctl  
+- curl, wget, ss, netstat  
+- Podman build/run/debug  
+- Python (requests, subprocess, virtualenv)  
+
+### **Learning Next**
+- Ansible  
+- CI/CD (GitHub Actions → Jenkins later)  
+- Infrastructure-as-code workflows  
+- Monitoring tools  
 
 ---
 
-## 📊 GitHub Stats
+# 💻 Past Frontend Learning Journey
 
-![Amr’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmrQamhieh&show_icons=true&theme=radical)
+Before switching to DevOps, I spent time learning frontend fundamentals.  
+I learned:
+
+- **HTML5**  
+- **CSS3 / SCSS**  
+- **JavaScript (ES6+)**  
+- **React (Basics)**  
+
+This helps me understand UI, client–server communication, and how frontend apps deploy inside real infrastructure.
 
 ---
 
-[html icon]: https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg  
-[css icon]: https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg  
-[js icon]: https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg  
-[linkedin badge]: https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin  
-[twitter badge]: https://img.shields.io/badge/X/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter  
-[linkedin]: https://linkedin.com/in/amrqamhieh  
-[twitter]: https://x.com/QamAmrrr
+# ⭐ Notable Projects
+
+### 🔹 **Server Monitor (Python + Bash + Containers)**
+A lightweight containerized monitoring tool that collects CPU, memory, and disk statistics using Bash, stores them in a SQL database, and exposes the data through a Python Flask API.  
+**Tech:** Python, Bash, SQLAlchemy, Podman, cron
+
+### 🔹 **Linux Utilities & Automation Scripts**
+A growing collection of small CLI tools:
+- Service health checks  
+- Log parsing helpers  
+- Simple system monitors  
+- Network debugging shortcuts  
+
+**Tech:** Bash, Python
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmrQamhieh&show_icons=true&theme=radical" />
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/amrqamhieh">LinkedIn</a> • 
+  <a href="mailto:amr.qamhieh@gmail.com">Email</a> •
+  <a href="https://x.com/QamAmrrr">Twitter / X</a>
+</p>
