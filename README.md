@@ -23,7 +23,7 @@ I work mainly with:
 
 Currently learning:
 
-- **Ansible** (playbooks, roles, inventory)
+- **Kubernetes** 
 - Better infrastructure automation practices
 - Monitoring, logging, and CI/CD fundamentals
 
@@ -49,7 +49,7 @@ I’m always trying to understand how things work behind the scenes — from pro
 - Python (requests, subprocess, virtualenv)  
 
 ### **Learning Next**
-- Ansible  
+- Kubernetes  
 - CI/CD (GitHub Actions → Jenkins later)  
 - Infrastructure-as-code workflows  
 - Monitoring tools  
