@@ -17,15 +17,17 @@ I'm a **DevOps Intern** focused on Linux systems, automation, containerization, 
 I work mainly with:
 
 - **RHEL 9 Linux**
+- **Ansible**
+- **Docker & Podman containers**
+- **Kubernetes** 
 - **Bash scripting**
 - **Python automation**
-- **Docker & Podman containers**
+
 
 Currently learning:
 
-- **Kubernetes** 
 - Better infrastructure automation practices
-- Monitoring, logging, and CI/CD fundamentals
+- Monitoring, logging, and CI/CD 
 
 I’m always trying to understand how things work behind the scenes — from processes and services to containers and network flows.
 
@@ -35,6 +37,8 @@ I’m always trying to understand how things work behind the scenes — from pro
 
 ### **Core DevOps Skills**
 - Linux Administration (RHEL 9)
+- Kubernetes
+- Ansible
 - Bash scripting  
 - Python scripting  
 - Containers (Docker & Podman)  
@@ -49,8 +53,7 @@ I’m always trying to understand how things work behind the scenes — from pro
 - Python (requests, subprocess, virtualenv)  
 
 ### **Learning Next**
-- Kubernetes  
-- CI/CD (GitHub Actions → Jenkins later)  
+- CI/CD (GitHub Actions)  
 - Infrastructure-as-code workflows  
 - Monitoring tools  
 
