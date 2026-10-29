@@ -9,30 +9,6 @@
 </p>
 
 ---
-
-# 🛠 About Me
-
-I'm a **DevOps Intern** focused on Linux systems, automation, containerization, and building tools that make infrastructure more reliable and easier to manage.
-
-I work mainly with:
-
-- **RHEL 9 Linux**
-- **Ansible**
-- **Docker & Podman containers**
-- **Kubernetes** 
-- **Bash scripting**
-- **Python automation**
-
-
-Currently learning:
-
-- Better infrastructure automation practices
-- Monitoring, logging, and CI/CD 
-
-I’m always trying to understand how things work behind the scenes — from processes and services to containers and network flows.
-
----
-
 # 🔧 Skills & Tools
 
 ### **Core DevOps Skills**
