@@ -1,0 +1,50 @@
+name: Update GitHub stats
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/github-stats.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-stats
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: main
+
+      - name: Generate public GitHub stats
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical&include_all_commits=true&show=reviews,prs_merged
+          path: profile/stats.svg
+          core_version: 2.2.1
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: 'true'
+
+      - name: Commit updated stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg
+          if git diff --cached --quiet; then
+            echo "GitHub stats are already up to date."
+            exit 0
+          fi
+          git commit -m "chore: update GitHub stats"
+          git pull --rebase origin main
+          git push origin HEAD:main
