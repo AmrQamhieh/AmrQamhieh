@@ -69,8 +69,12 @@ A growing collection of small CLI tools:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmrQamhieh&show_icons=true&theme=radical" />
+  <a href="https://github.com/AmrQamhieh#contribution-activity">
+    <img src="./profile/stats.svg" alt="Amr Qamhieh's GitHub stats" />
+  </a>
 </p>
+
+Updated daily from my public GitHub activity. [View my contributions](https://github.com/AmrQamhieh#contribution-activity).
 
 ---
 
