@@ -26,14 +26,23 @@ jobs:
         with:
           ref: main
 
-      - name: Generate public GitHub stats
+      - name: Check private stats token
+        env:
+          GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+        run: |
+          if [ -z "$GH_STATS_TOKEN" ]; then
+            echo "::error::Add the GH_STATS_TOKEN Actions secret to include private repositories. The existing stats card has been preserved."
+            exit 1
+          fi
+
+      - name: Generate public and private GitHub stats
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical&include_all_commits=true&show=reviews,prs_merged
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical&include_all_commits=true&show=reviews,prs_merged&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&contribs_include_own_repos=true&number_format=long
           path: profile/stats.svg
           core_version: 2.2.1
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
           fail_on_error: 'true'
 
       - name: Commit updated stats

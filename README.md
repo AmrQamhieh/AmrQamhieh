@@ -74,7 +74,7 @@ A growing collection of small CLI tools:
   </a>
 </p>
 
-Updated daily from my public GitHub activity. [View my contributions](https://github.com/AmrQamhieh#contribution-activity).
+Includes public and private GitHub activity as aggregate counts. [View my contributions](https://github.com/AmrQamhieh#contribution-activity).
 
 ---
 
